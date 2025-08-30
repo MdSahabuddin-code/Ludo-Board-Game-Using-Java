@@ -32,4 +32,4 @@ Supports up to **4 players**, dice rolls, pawn movement, and winner detection.
 ## 💾 Installation
 1. Clone the repository:  
    ```bash
-   [ git clone <repository_url>](https://github.com/MdSahabuddin-code/Ludo-Board-Game-Using-Java/tree/a4fad1fff4ffba043cd1956363a6099dbf5a976b](https://github.com/MdSahabuddin-code/Ludo-Board-Game-Using-Java)
+     git clone <https://github.com/MdSahabuddin-code/Ludo-Board-Game-Using-Java/tree/a4fad1fff4ffba043cd1956363a6099dbf5a976b](https://github.com/MdSahabuddin-code/Ludo-Board-Game-Using-Java>
