@@ -48,14 +48,23 @@ Supports up to **4 players**, dice rolls, pawn movement, and winner detection.
 5. Winner is displayed and the board resets automatically.
 
 ##📂 Classes Overview
+
 Class	Description
+
 Player-------------------Stores player information and pawns
+
 Pawn---------------------Represents each pawn, its position, and rendering
+
 Path---------------------Stores path coordinates and initial positions
+
 Layout-------------------Draws the Ludo board and player zones
+
 Build_Player-------------Initializes players and pawns
+
 GameMoves----------------Handles dice rolls, player moves, and board repaint
+
 GameScreen---------------Entry point; sets up JFrame and starts the game
+
 
 ##🔮 Future Improvements
 
